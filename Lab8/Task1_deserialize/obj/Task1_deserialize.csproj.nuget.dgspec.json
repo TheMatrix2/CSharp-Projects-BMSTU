@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/thematrix/CSharpProjects/Lab8/Task1_deserialize/Task1_deserialize.csproj": {}
+  },
+  "projects": {
+    "/home/thematrix/CSharpProjects/Lab8/AnimalClasses/AnimalClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/thematrix/CSharpProjects/Lab8/AnimalClasses/AnimalClasses.csproj",
+        "projectName": "AnimalClasses",
+        "projectPath": "/home/thematrix/CSharpProjects/Lab8/AnimalClasses/AnimalClasses.csproj",
+        "packagesPath": "/home/thematrix/.nuget/packages/",
+        "outputPath": "/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/thematrix/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/thematrix/CSharpProjects/Lab8/Task1_deserialize/Task1_deserialize.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/thematrix/CSharpProjects/Lab8/Task1_deserialize/Task1_deserialize.csproj",
+        "projectName": "Task1_deserialize",
+        "projectPath": "/home/thematrix/CSharpProjects/Lab8/Task1_deserialize/Task1_deserialize.csproj",
+        "packagesPath": "/home/thematrix/.nuget/packages/",
+        "outputPath": "/home/thematrix/CSharpProjects/Lab8/Task1_deserialize/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/thematrix/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/thematrix/CSharpProjects/Lab8/AnimalClasses/AnimalClasses.csproj": {
+                "projectPath": "/home/thematrix/CSharpProjects/Lab8/AnimalClasses/AnimalClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

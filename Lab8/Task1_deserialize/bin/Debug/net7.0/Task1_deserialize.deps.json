@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task1_deserialize/1.0.0": {
+        "dependencies": {
+          "AnimalClasses": "1.0.0"
+        },
+        "runtime": {
+          "Task1_deserialize.dll": {}
+        }
+      },
+      "AnimalClasses/1.0.0": {
+        "runtime": {
+          "AnimalClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task1_deserialize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

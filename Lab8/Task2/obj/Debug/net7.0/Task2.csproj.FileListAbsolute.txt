@@ -1,0 +1,14 @@
+/home/thematrix/CSharpProjects/Lab8/Task2/bin/Debug/net7.0/Task2
+/home/thematrix/CSharpProjects/Lab8/Task2/bin/Debug/net7.0/Task2.deps.json
+/home/thematrix/CSharpProjects/Lab8/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/home/thematrix/CSharpProjects/Lab8/Task2/bin/Debug/net7.0/Task2.dll
+/home/thematrix/CSharpProjects/Lab8/Task2/bin/Debug/net7.0/Task2.pdb
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.dll
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/refint/Task2.dll
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.pdb
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/home/thematrix/CSharpProjects/Lab8/Task2/obj/Debug/net7.0/ref/Task2.dll

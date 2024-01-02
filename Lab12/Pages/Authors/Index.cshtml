@@ -1,0 +1,35 @@
+@page
+@using Lab12.Pages.Authors
+@model Lab12.Pages.Authors.IndexAuthor
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Authors";
+}
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Author Name</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var author in Model.Authors)
+    {
+        <tr>
+            <td>@author.Name</td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@author.ID">Edit</a> |
+                <a asp-page="./Delete" asp-route-id="@author.ID">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<a class="btn41-43 btn-43" asp-page="./Create">Create New</a>
+<a class="btn41-43 btn-43" asp-page="../Books/Index">Back to books</a>

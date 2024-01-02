@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrB0RypcjIdud474nQargCsXtHc0RJI7GSokJlnQS/4DIBSSUdm9tX7syl21VqRaDqAy1K8SN9cHaqDa2qqcrQ==",
+  "success": true,
+  "projectFilePath": "/home/thematrix/CSharpProjects/Lab13/Lab13/Lab13/Lab13.csproj",
+  "expectedPackageFiles": [
+    "/home/thematrix/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/thematrix/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/thematrix/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+@page
+@model Lab12.Pages.Books.DetailsModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Book";
+}
+
+@{ var book = Model.Book;}
+
+<div class="card">
+    <div class="card-header">
+        <h1>@book.Title</h1>
+    </div>
+    <div class="card-body text-center">
+        <h4 class="cardTextLeftFloating">ID: @book.ID</h4><hr/>
+        <h4 class="cardTextLeftFloating">Author: @book.AuthorName</h4><hr/>
+        <h4 class="cardTextLeftFloating">Publisher: @book.PublisherName</h4><hr/>
+    </div>
+</div>
+
+<div>
+    <a class="btn41-43 btn-43" asp-area="" asp-page="./Index">Back to all books</a>
+    <a class="btn41-43 btn-43" asp-page="./Edit" asp-route-id="@book.ID">Edit</a>
+    <a class="btn41-43 btn-43" asp-page="./Delete" asp-route-id="@book.ID">Delete</a>
+</div>

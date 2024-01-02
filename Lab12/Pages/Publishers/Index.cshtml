@@ -1,0 +1,34 @@
+@page
+@model Lab12.Pages.Publishers.IndexPublisher
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Publishers";
+}
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Publisher Name</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var publisher in Model.Publishers)
+    {
+        <tr>
+            <td>@publisher.Name</td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@publisher.ID">Edit</a> |
+                <a asp-page="./Delete" asp-route-id="@publisher.ID">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<a class="btn41-43 btn-43" asp-page="./Create">Create New</a>
+<a class="btn41-43 btn-43" asp-page="../Books/Index">Back to books</a>

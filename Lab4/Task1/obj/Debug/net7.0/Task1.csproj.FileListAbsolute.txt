@@ -1,0 +1,14 @@
+/home/thematrix/RiderProjects/Lab4/Task1/bin/Debug/net7.0/Task1
+/home/thematrix/RiderProjects/Lab4/Task1/bin/Debug/net7.0/Task1.deps.json
+/home/thematrix/RiderProjects/Lab4/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/home/thematrix/RiderProjects/Lab4/Task1/bin/Debug/net7.0/Task1.dll
+/home/thematrix/RiderProjects/Lab4/Task1/bin/Debug/net7.0/Task1.pdb
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.dll
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/refint/Task1.dll
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.pdb
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/home/thematrix/RiderProjects/Lab4/Task1/obj/Debug/net7.0/ref/Task1.dll

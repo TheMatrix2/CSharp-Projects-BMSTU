@@ -1,0 +1,25 @@
+﻿@page
+
+@using WebApplication1
+@namespace WebApplication1.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="weather-information-page">
+    <div class="toolbar">
+        <select id="select-city-object" class="toolbar-buttons"></select>
+        <button onclick="loadCurrentWeather()" class="toolbar-buttons">Загрузить текущую погоду</button>
+    </div>
+    <div class="weather-information-container">
+        <span id="weather-information-content"></span>
+    </div>
+</div>
+
+<script src="~/js/site.js" asp-append-version="true"></script>

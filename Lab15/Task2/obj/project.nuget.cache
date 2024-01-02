@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lT6sehjr1wCEoTT8L94gmp7LvV2RvAEvT+XDv5l7TkGW4wU9IiU36Vh2rk7KXRrvjpOils8hz5NxWcMxp8Lilg==",
+  "success": true,
+  "projectFilePath": "/home/thematrix/CSharpProjects/Lab15/Task2/Task2.csproj",
+  "expectedPackageFiles": [
+    "/home/thematrix/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

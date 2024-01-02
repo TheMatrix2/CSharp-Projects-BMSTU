@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLd29Gi9u+2U9GLzn3Aoe1EB+BD9g2RgxbSorLmlTckiEhr2hlw3m6ZIP18ZiNrmbS769hb3KjfWcbGSe/9Zpw==",
+  "success": true,
+  "projectFilePath": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/home/thematrix/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

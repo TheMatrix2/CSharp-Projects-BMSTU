@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "rg+/RJ4d/6SG/mDp3wkWT2HhVvV0/CBRlcGnTBkPmKY=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1/wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/wwwroot/",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/obj/Debug/net6.0/scopedcss/bundle/WebApplication1.styles.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/obj/Debug/net6.0/scopedcss/bundle/",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "WebApplication1.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/obj/Debug/net6.0/scopedcss/bundle/WebApplication1.styles.css"
+    },
+    {
+      "Identity": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/obj/Debug/net6.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "WebApplication1.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/obj/Debug/net6.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/wwwroot/css/site.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/wwwroot/",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/wwwroot/js/site.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/thematrix/CSharpProjects/Lab9/WebApplication1/wwwroot/",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/bin/Debug/net7.0/AnimalClasses.deps.json
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/bin/Debug/net7.0/AnimalClasses.dll
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/bin/Debug/net7.0/AnimalClasses.pdb
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/AnimalClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/AnimalClasses.AssemblyInfoInputs.cache
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/AnimalClasses.AssemblyInfo.cs
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/AnimalClasses.csproj.CoreCompileInputs.cache
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/AnimalClasses.dll
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/refint/AnimalClasses.dll
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/AnimalClasses.pdb
+/home/thematrix/CSharpProjects/Lab8/AnimalClasses/obj/Debug/net7.0/ref/AnimalClasses.dll

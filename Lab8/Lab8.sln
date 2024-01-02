@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_serialize", "Task1_serialize\Task1_serialize.csproj", "{851A8823-1DFF-43C0-BB71-7319E28AA42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalClasses", "AnimalClasses\AnimalClasses.csproj", "{FC9E7CB5-B29D-435C-B5E1-DC7D858EE4B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_deserialize", "Task1_deserialize\Task1_deserialize.csproj", "{E39F4C5F-E458-4457-9557-52EB54138E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{383B784B-9330-43FC-9998-E2C35D58315F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851A8823-1DFF-43C0-BB71-7319E28AA42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851A8823-1DFF-43C0-BB71-7319E28AA42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851A8823-1DFF-43C0-BB71-7319E28AA42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851A8823-1DFF-43C0-BB71-7319E28AA42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9E7CB5-B29D-435C-B5E1-DC7D858EE4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9E7CB5-B29D-435C-B5E1-DC7D858EE4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9E7CB5-B29D-435C-B5E1-DC7D858EE4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9E7CB5-B29D-435C-B5E1-DC7D858EE4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39F4C5F-E458-4457-9557-52EB54138E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39F4C5F-E458-4457-9557-52EB54138E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39F4C5F-E458-4457-9557-52EB54138E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39F4C5F-E458-4457-9557-52EB54138E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383B784B-9330-43FC-9998-E2C35D58315F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383B784B-9330-43FC-9998-E2C35D58315F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383B784B-9330-43FC-9998-E2C35D58315F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383B784B-9330-43FC-9998-E2C35D58315F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
